@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravelcollective/html": "^5.3.0",
+        "artesaos/seotools": "^0.10.0"
+    }
+}
